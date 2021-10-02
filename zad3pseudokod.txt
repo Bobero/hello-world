@@ -1,0 +1,14 @@
+START
+Podaj liczbę a
+Przypisz x wartość 2
+Jeżeli a == x to
+    Wypisz "To liczba pierwsza"
+    idź do 14
+ Inaczej
+  Jeżeli reszta z dzielenie a przez x == 0
+      Wypisz "To nie jest liczba pierwsza"
+      idź do 14
+    Inaczej
+      Zwiększ x o 1 
+      Idź do 4
+STOP
