@@ -1,0 +1,10 @@
+Start
+Podaj liczbę n
+Przypisz zmiennej x wartość 1 
+Jeżeli liczba n jest mniejsza lub równa od zmiennej x
+  Wypisz "Podana liczba musi być większa od 1"
+ Inaczej
+  Wypisz zmienną x
+  Jeżeli zmienna x jest różna od liczby n
+   Zwiększ x o 1 
+Koniec
